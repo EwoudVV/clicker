@@ -3622,7 +3622,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 122.885 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -3780,7 +3780,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 68.072 80.01 90)
 			(hide yes)
 			(show_name no)
@@ -3861,7 +3861,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 107.645 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -3940,7 +3940,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 157.48 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -4022,7 +4022,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 93.472 74.93 90)
 			(hide yes)
 			(show_name no)
@@ -4103,7 +4103,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 80.01 132.715 0)
 			(hide yes)
 			(show_name no)
@@ -4192,7 +4192,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
 			(at 165.1 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -4273,7 +4273,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 60.655 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -4352,7 +4352,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 148.082 134.62 90)
 			(hide yes)
 			(show_name no)
@@ -4431,7 +4431,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 68.072 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -4510,7 +4510,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 149.86 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -4669,7 +4669,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
 			(at 144.78 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -4748,7 +4748,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 48.26 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4872,7 +4872,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "RF_Module:ESP32-S3-WROOM-1"
 			(at 119.38 107.95 0)
 			(hide yes)
 			(show_name no)

@@ -1,0 +1,100 @@
+(footprint "Choc_V1_PG1350"
+  (version 20241229)
+  (generator "kicad-mcp")
+  (generator_version "9.0")
+  (layer "F.Cu")
+  (descr "Kailh Choc V1 (PG1350) low-profile switch, direct solder, THT switch pins. Pin geometry cross-checked from two production-tested libraries.")
+  (tags "switch keyboard choc PG1350 Kailh low-profile")
+
+  (property "Reference" "REF**" (at 0 -1.27 0)
+    (layer "F.SilkS")
+    (uuid "28d19dac-4589-4103-8cd8-fcb3e80d2b5a")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (property "Value" "Choc_V1_PG1350" (at 0 1.27 0)
+    (layer "F.Fab")
+    (uuid "b45dc787-96b2-4b95-b839-c09a22e8afe8")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (property "Datasheet" "" (at 0 0 0)
+    (layer "F.Fab")
+    (uuid "317e6f57-c4e8-48f7-8432-a9da0f712d4f")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+
+  (fp_rect
+    (start -8.25 -8.25)
+    (end 8.25 8.25)
+    (stroke (width 0.05) (type default))
+    (fill none)
+    (layer "F.CrtYd")
+    (uuid "0adaab04-a5ef-41c3-9204-56e14954302b")
+  )
+
+  (fp_rect
+    (start -6.5 -6.5)
+    (end 6.5 6.5)
+    (stroke (width 0.12) (type default))
+    (fill none)
+    (layer "F.SilkS")
+    (uuid "ad7e35a9-d288-4160-aae3-7c0e0d38e1a3")
+  )
+
+  (fp_rect
+    (start -7.5 -7.5)
+    (end 7.5 7.5)
+    (stroke (width 0.1) (type default))
+    (fill none)
+    (layer "F.Fab")
+    (uuid "52e4be3a-5cf5-48c8-b387-da98a251599e")
+  )
+
+  (pad "1" thru_hole circle
+    (at 0 5.9)
+    (size 2.2 2.2)
+    (drill 1.4)
+    (layers "*.Cu" "*.Mask")
+    (uuid "79cfe943-fdd1-4748-8f2b-42ae1616ad88")
+  )
+
+  (pad "2" thru_hole circle
+    (at -5 3.8)
+    (size 2.2 2.2)
+    (drill 1.4)
+    (layers "*.Cu" "*.Mask")
+    (uuid "fa217ddc-b9fc-4391-85e0-663a1983f919")
+  )
+
+  (pad "MH1" np_thru_hole circle
+    (at -5.5 0)
+    (size 1.7 1.7)
+    (drill 1.7)
+    (layers "*.Cu" "*.Mask")
+    (uuid "adf9f052-a04a-4533-b406-16a25bdfc18f")
+  )
+
+  (pad "MH2" np_thru_hole circle
+    (at 5.5 0)
+    (size 1.7 1.7)
+    (drill 1.7)
+    (layers "*.Cu" "*.Mask")
+    (uuid "32e747e1-cf4a-4fa3-aa29-85e3ef160d5a")
+  )
+
+  (pad "MH3" np_thru_hole circle
+    (at 0 0)
+    (size 3.4 3.4)
+    (drill 3.4)
+    (layers "*.Cu" "*.Mask")
+    (uuid "1f43cffe-2f08-4c7f-9025-382f9ab7e5c5")
+  )
+
+  (pad "MH4" np_thru_hole circle
+    (at 5.22 -4.2)
+    (size 1.2 1.2)
+    (drill 1.2)
+    (layers "*.Cu" "*.Mask")
+    (uuid "6a0313ce-c661-4544-8fda-9b6154d7d9a9")
+  )
+
+)

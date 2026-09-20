@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "clicker")(type "KiCad")(uri "/Users/ellievanvooren/Documents/kicad/clicker/clicker.pretty")(options "")(descr ""))
+)
