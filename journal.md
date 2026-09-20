@@ -32,7 +32,7 @@ Placed the schematic symbols and wired everything up with labels.
 Also fixed something from the remote schematics: the schottky diodes were backwards.
 I also had to add power flags for both schematics, which i forgot about.
 
-Devlog 04
+### Devlog 04
 
 Date: Sep 20
 Time spent: 1 hour
@@ -40,3 +40,14 @@ Lapse: [lapse](https://lapse.hackclub.com/timelapse/9pbpZWGdKg2V)
 
 i found exact part numbers i needed for each symbol, and assigned all of them footprints, and updated both pcbs from both schematics. i routed the reciever pcb, but there are 200 errors that i have to work through, most of them are clearance violations that are probably fine and will go away once i adjust stuff.
 i had to make my own footprint for the switch btw
+
+### Devlog 05
+
+Date: Sep 20
+Time spent: 30 minutes
+Lapse: no lapse
+
+i found the errors:
+root causes all mechanical: tight outline, strict hole rule, one redundant via
+expanded outline, corrected hole rule to fab capability, removed via
+result: zero blocking errors, thermals stuff accepted, doing silkscreen cleanup now
