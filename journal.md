@@ -1,5 +1,9 @@
 # Journal
 
+devlogs for progress
+
+## Total Time Spent: 2 hours
+
 ### Devlog 01
 
 Date: Sep 19
