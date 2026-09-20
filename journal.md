@@ -14,4 +14,16 @@ Date: Sep 20
 Time spent: 30 minutes
 Lapse: [lapse](https://lapse.hackclub.com/timelapse/JvdpDzcCZuD7)
 
+Finished the remote schematic.
 Placed the schematic symbols and wired everything up with labels.
+
+### Devlog 03
+
+Date: Sep 20
+Time spent: 30 minutes
+Lapse: [lapse](https://lapse.hackclub.com/timelapse/a2XuRAxTbL4d)
+
+Finished the reciever schematic.
+Placed the schematic symbols and wired everything up with labels.
+Also fixed something from the remote schematics: the schottky diodes were backwards.
+I also had to add power flags for both schematics, which i forgot about.
