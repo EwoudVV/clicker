@@ -19,14 +19,14 @@ Remote pcb:
  - usb-c port for charging
 
 Roadmap:
- - find specific part numbers and footprints for everything
- - route the pcbs
  - finish up, make production files
  - submit!
 
 Completed:
  - Find and place symbols
  - wire up both schematics
+ - find specific part numbers and footprints for everything
+ - route the pcbs
 
 Designed by EVV
 

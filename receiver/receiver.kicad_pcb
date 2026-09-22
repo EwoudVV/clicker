@@ -98,7 +98,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R_EN"
-			(at 0 -1.43 0)
+			(at 0.1 0.75 0)
 			(layer "F.SilkS")
 			(uuid "cee83f41-bd90-496f-ad59-69a562fb5e7d")
 			(effects
@@ -244,7 +244,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C3"
-			(at 0 -1.43 0)
+			(at 3.75 -1.1 0)
 			(layer "F.SilkS")
 			(uuid "0976cefc-d6c1-4ceb-9d0a-8494cac76f64")
 			(effects
@@ -390,7 +390,7 @@
 		(descr "Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss")
 		(tags "Tactile Switch")
 		(property "Reference" "SW_RST"
-			(at 0 -2.5 0)
+			(at 0.1 1.55 0)
 			(layer "F.SilkS")
 			(uuid "38500dfd-2ad8-4bbd-8f5c-6ee7cc51d544")
 			(effects
@@ -871,7 +871,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED")
 		(property "Reference" "D1"
-			(at 0 -1.43 0)
+			(at -0.9 1.25 0)
 			(layer "F.SilkS")
 			(uuid "cbb5afec-a730-4c78-aa9f-6bdad1759afd")
 			(effects
@@ -1066,7 +1066,7 @@
 		(descr "2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf")
 		(tags "2.4 GHz Wi-Fi and Bluetooth module")
 		(property "Reference" "U1"
-			(at -10.5 11.4 90)
+			(at -6.7 10.49 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "38fda6e8-e2a9-4e01-978b-58443df76f34")
@@ -1858,7 +1858,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C2"
-			(at 0 -1.43 0)
+			(at 1.1 1.4 0)
 			(layer "F.SilkS")
 			(uuid "8282a779-1f16-4b0f-9399-9f6f36ac031d")
 			(effects
@@ -2004,7 +2004,7 @@
 		(descr "USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf")
 		(tags "usb usb-c 2.0 pd")
 		(property "Reference" "J1"
-			(at 0 -5.645 0)
+			(at -1.45 -5.36 0)
 			(layer "F.SilkS")
 			(uuid "3c688a45-5dda-4929-bbee-ac1a237116f6")
 			(effects
@@ -2394,7 +2394,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0 -1.43 0)
+			(at -0.625 1.15 0)
 			(layer "F.SilkS")
 			(uuid "fcc6538a-f9ee-45e9-847f-39bda4b49bad")
 			(effects
@@ -2540,7 +2540,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R_CC1"
-			(at 0 -1.43 0)
+			(at 1.25 -0.95 0)
 			(layer "F.SilkS")
 			(uuid "31433223-51d0-43be-8b0b-7468c45adf0a")
 			(effects
@@ -2686,7 +2686,7 @@
 		(descr "SOT, 5 Pin (JEDEC MO-178 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-178)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U2"
-			(at 0 -2.4 0)
+			(at 0.6625 0 0)
 			(layer "F.SilkS")
 			(uuid "81ac0d20-bbff-4815-a8b6-6eba94e8a956")
 			(effects
@@ -3067,7 +3067,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R_ACT"
-			(at 0 -1.43 0)
+			(at 0.9 -0.75 0)
 			(layer "F.SilkS")
 			(uuid "fbf2ed8f-45b7-457e-bf0f-4a5ba85bb828")
 			(effects
@@ -3213,7 +3213,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R_CC2"
-			(at 0 -1.43 0)
+			(at 0.725 1.25 0)
 			(layer "F.SilkS")
 			(uuid "7db8cd3f-6d24-471a-aec0-f54e9abfabe8")
 			(effects
@@ -3359,12 +3359,12 @@
 		(descr "Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss")
 		(tags "Tactile Switch")
 		(property "Reference" "SW_BOOT"
-			(at 0 -2.5 0)
+			(at -0.2 -2.15 0)
 			(layer "F.SilkS")
 			(uuid "e5ebb0cc-a8ef-4250-91f6-8bb42bc42c17")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
@@ -3602,7 +3602,7 @@
 		(mid 137.890381 88.390381)
 		(end 138.35 88.2)
 		(stroke
-			(width 0)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
@@ -3612,7 +3612,7 @@
 		(start 137.7 121.65)
 		(end 137.7 88.85)
 		(stroke
-			(width 0)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
@@ -3622,7 +3622,7 @@
 		(start 138.35 88.2)
 		(end 157.85 88.2)
 		(stroke
-			(width 0)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
@@ -3633,7 +3633,7 @@
 		(mid 137.890381 122.109619)
 		(end 137.7 121.65)
 		(stroke
-			(width 0)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
@@ -3644,7 +3644,7 @@
 		(mid 158.309619 88.390381)
 		(end 158.5 88.85)
 		(stroke
-			(width 0)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
@@ -3654,7 +3654,7 @@
 		(start 157.85 122.3)
 		(end 138.35 122.3)
 		(stroke
-			(width 0)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
@@ -3664,7 +3664,7 @@
 		(start 158.5 88.85)
 		(end 158.5 121.65)
 		(stroke
-			(width 0)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
@@ -3675,11 +3675,35 @@
 		(mid 158.309619 122.109619)
 		(end 157.85 122.3)
 		(stroke
-			(width 0)
+			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
 		(uuid "c90c2df5-30de-4279-806f-6e8e66de46eb")
+	)
+	(gr_text "Made for Hack Club Half Life"
+		(at 153.4 91.25 -0)
+		(layer "B.SilkS")
+		(uuid "6ef77f0d-0a0d-4f70-83f1-c41eb5afd179")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Designed by EVV"
+		(at 154.1 90.05 -0)
+		(layer "B.SilkS")
+		(uuid "befaec57-948c-4c66-9a63-79e02256be60")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
 	)
 	(segment
 		(start 139.3 92.74)

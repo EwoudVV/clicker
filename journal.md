@@ -51,3 +51,12 @@ i found the errors:
 root causes all mechanical: tight outline, strict hole rule, one redundant via
 expanded outline, corrected hole rule to fab capability, removed via
 result: zero blocking errors, thermals stuff accepted, doing silkscreen cleanup now
+
+### Devlog 06
+
+Date: Sep 22
+Time Spent: 30 minutes
+Lapse: [lapse](https://lapse.hackclub.com/timelapse/fsMvkNjTQimd)
+
+routed the remote board!
+also added edge.cuts outline with rounded edges, cleaned up silkscreen, flipped some tht components to the back like the switch, debug header, and batt connector
