@@ -9,3 +9,5 @@ fp-info-cache
 
 # OS
 .DS_Store
+receiver/.history/
+remote/.history/
