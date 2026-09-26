@@ -1,0 +1,20 @@
+Item #,Designator,Qty,Manufacturer,Mfg Part #,Description,Package,Type
+1,U1,1,Espressif,ESP32-C3-WROOM-02-N4,"WiFi+BLE5 module, RISC-V, 4MB flash, PCB antenna",SMD module,Module
+2,U2,1,Microchip,MCP73831T-2ATI/OT,"Li-Ion charge management controller, 4.2V, 500mA",SOT-23-5,IC
+3,U3,1,Diodes Inc,AP2112K-3.3TRG1,"600mA low-dropout regulator, 3.3V fixed",SOT-23-5,IC
+4,J1,1,HRO,TYPE-C-31-M-12,"USB Type-C receptacle, 16P, USB2.0+PD",SMD,Connector
+5,J_BAT,1,JST,B2B-PH-K-S,PH 2.0mm 2-pin vertical header,THT,Connector
+6,HDR1,1,Generic,1x03 2.54mm pin header,"Pin header 1x3, 2.54mm pitch, vertical",THT,Connector
+7,"SW1, SW2",2,Kailh,CPG135001D01,"Choc V1 low-profile mechanical switch, linear red",THT,Switch
+8,"SW_BOOT, SW_RST",2,Omron,B3U-1000P,"Tactile switch, top actuated",SMD,Switch
+9,SW_PWR,1,C&K,OS102011MS2Q,Miniature SPDT slide switch,THT,Switch
+10,"D_CHG, D_STAT",2,Everlight,19-213/R6C-AL1M2VY/3T,Red 0603 LED,0603,LED
+11,"D_VBAT, D_VBUS",2,MDD,SS14,1A 40V Schottky rectifier,SMA,Diode
+12,"R_CC1, R_CC2",2,UNI-ROYAL,0603WAF5101T5E,5.1k ohm 1% 1/10W,0603,Resistor
+13,R_EN,1,UNI-ROYAL,0603WAF1002T5E,10k ohm 1% 1/10W,0603,Resistor
+14,"R_UP, R_DN",2,UNI-ROYAL,0603WAF1003T5E,100k ohm 1% 1/10W,0603,Resistor
+15,R_PROG,1,UNI-ROYAL,0603WAF2001T5E,2k ohm 1% 1/10W,0603,Resistor
+16,"R_CHG, R_STAT",2,UNI-ROYAL,0603WAF1001T5E,1k ohm 1% 1/10W,0603,Resistor
+17,C1,1,Samsung,CL10B104KB8NNNC,100nF 50V X7R ceramic,0603,Capacitor
+18,C2,1,Samsung,CL10A106MQ8NNNC,10uF 6.3V X5R ceramic,0603,Capacitor
+19,C3,1,Samsung,CL10B105KO8NNNC,1uF 25V X7R ceramic,0603,Capacitor

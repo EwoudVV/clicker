@@ -1,0 +1,13 @@
+Item #,Designator,Qty,Manufacturer,Mfg Part #,Description,Package,Type
+1,U1,1,Espressif,ESP32-S3-WROOM-1-N4,"WiFi+BLE5 module, 4MB flash, PCB antenna, native USB",SMD module,Module
+2,U2,1,Diodes Inc,AP2112K-3.3TRG1,"600mA low-dropout regulator, 3.3V fixed",SOT-23-5,IC
+3,J1,1,HRO,TYPE-C-31-M-12,"USB Type-C receptacle, 16P, USB2.0+PD",SMD,Connector
+4,HDR1,1,Generic,1x03 2.54mm pin header,"Pin header 1x3, 2.54mm pitch, vertical",THT,Connector
+5,"SW_BOOT, SW_RST",2,Omron,B3U-1000P,"Tactile switch, top actuated",SMD,Switch
+6,D1,1,Everlight,19-213/R6C-AL1M2VY/3T,Red 0603 LED,0603,LED
+7,R_ACT,1,UNI-ROYAL,0603WAF1001T5E,1k ohm 1% 1/10W,0603,Resistor
+8,"R_CC1, R_CC2",2,UNI-ROYAL,0603WAF5101T5E,5.1k ohm 1% 1/10W,0603,Resistor
+9,R_EN,1,UNI-ROYAL,0603WAF1002T5E,10k ohm 1% 1/10W,0603,Resistor
+10,C1,1,Samsung,CL10B104KB8NNNC,100nF 50V X7R ceramic,0603,Capacitor
+11,C2,1,Samsung,CL10A106MQ8NNNC,10uF 6.3V X5R ceramic,0603,Capacitor
+12,C3,1,Samsung,CL10B105KO8NNNC,1uF 25V X7R ceramic,0603,Capacitor

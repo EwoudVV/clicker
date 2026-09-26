@@ -60,3 +60,11 @@ Lapse: [lapse](https://lapse.hackclub.com/timelapse/fsMvkNjTQimd)
 
 routed the remote board!
 also added edge.cuts outline with rounded edges, cleaned up silkscreen, flipped some tht components to the back like the switch, debug header, and batt connector
+
+### Devlog 07
+
+Date: Sep 26
+Time Spent: 1 hour
+Lapse: no lapse
+
+fixed a short in the remote board, make all production files, sourced parts for the boms
