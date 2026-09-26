@@ -2,7 +2,7 @@
 
 devlogs for progress
 
-## Total Time Spent: 2 hours
+## Total Time Spent: 5 hours
 
 ### Devlog 01
 
