@@ -55,7 +55,7 @@ result: zero blocking errors, thermals stuff accepted, doing silkscreen cleanup 
 ### Devlog 06
 
 Date: Sep 22
-Time Spent: 30 minutes
+Time Spent: 1 hour
 Lapse: [lapse](https://lapse.hackclub.com/timelapse/fsMvkNjTQimd)
 
 routed the remote board!
