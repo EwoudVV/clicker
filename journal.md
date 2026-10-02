@@ -2,8 +2,6 @@
 
 devlogs for progress
 
-## Total Time Spent: 5 hours
-
 ### Devlog 01
 
 Date: Sep 19
