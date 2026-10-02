@@ -44,7 +44,7 @@ i had to make my own footprint for the switch btw
 ### Devlog 05
 
 Date: Sep 20
-Time spent: 30 minutes
+Time spent: 1 hour
 Lapse: no lapse
 
 i found the errors:
@@ -55,7 +55,7 @@ result: zero blocking errors, thermals stuff accepted, doing silkscreen cleanup 
 ### Devlog 06
 
 Date: Sep 22
-Time Spent: 1 hour
+Time Spent: 30 minutes
 Lapse: [lapse](https://lapse.hackclub.com/timelapse/fsMvkNjTQimd)
 
 routed the remote board!
