@@ -10,7 +10,4 @@ fp-info-cache
 # OS
 .DS_Store
 receiver/.history/
-remote/.history/
-
-# Local builds and hardware snapshots
-work/
+remote/.history/\

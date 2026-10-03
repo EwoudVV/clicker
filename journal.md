@@ -70,7 +70,7 @@ fixed a short in the remote board, make all production files, sourced parts for 
 ### Devlog 08
 
 Date: Oct 3
-Time Spent: 1 hour
+Time Spent: 2 hours
 Lapse: no lapse
 
 made firmware for both boards: slide arrows by default, saved key remapping over USB, and configurable encrypted pairing.
