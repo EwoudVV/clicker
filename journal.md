@@ -77,3 +77,11 @@ made firmware for both boards: slide arrows by default, saved key remapping over
 both scripts compile
 Fixed five thermal errors and the remot’s ERC error. Both PCBs now have zero DRC errors and unrouted connections, warnings are still there
 refreshed Gerbers and wrote setup instructions
+
+Devlog 09
+
+Date: Oct 3
+Time Spent: 2 hours
+Lapse: no lapse
+
+I sourced exact links and prices for each part of the project. i tried to optimize it for cost, but it is ~$30 over budget. I can try to pay for the rest myself, but.. im kinda broke. Ill see if i can scrounge together some coupons before i order.
