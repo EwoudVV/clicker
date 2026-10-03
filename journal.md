@@ -78,7 +78,7 @@ both scripts compile
 Fixed five thermal errors and the remot’s ERC error. Both PCBs now have zero DRC errors and unrouted connections, warnings are still there
 refreshed Gerbers and wrote setup instructions
 
-Devlog 09
+### Devlog 09
 
 Date: Oct 3
 Time Spent: 2 hours
