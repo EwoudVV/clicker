@@ -66,3 +66,14 @@ Time Spent: 1 hour
 Lapse: no lapse
 
 fixed a short in the remote board, make all production files, sourced parts for the boms
+
+### Devlog 08
+
+Date: Oct 3
+Time Spent: 1 hour
+Lapse: no lapse
+
+made firmware for both boards: slide arrows by default, saved key remapping over USB, and configurable encrypted pairing.
+both scripts compile
+Fixed five thermal errors and the remot’s ERC error. Both PCBs now have zero DRC errors and unrouted connections, warnings are still there
+refreshed Gerbers and wrote setup instructions
