@@ -85,3 +85,21 @@ Time Spent: 2 hours
 Lapse: no lapse
 
 I sourced exact links and prices for each part of the project. i tried to optimize it for cost, but it is ~$30 over budget. I can try to pay for the rest myself, but.. im kinda broke. Ill see if i can scrounge together some coupons before i order.
+
+### Devlog 10
+
+Date: Oct 3
+Time Spent: 3.5 hours
+Lapse: no lapse
+
+made cases for the remote and receiver, with openings for USB-C, the LEDs, and the buttons. The boards sit on little supports and are held in place by the lids, so I didn't need to change either PCB.
+The first remote case was way too thick. I had stacked the battery underneath the connectors, so I moved it beside the PCB and removed the extra power slider and feet. That brought the body down from 29 mm to 21.7 mm thick, although it is now wider.
+I also made narrower printed keycaps because the original ones would have no gap between them. These leave a 1.1 mm gap, and I checked that they can move through the full switch travel without hitting the case.
+
+### Devlog 11
+
+Date: Oct 4
+Time Spent: 2 hours
+Lapse: no lapse
+
+prepared this project for submission! i listed all items in the cart thing on this website, went through the order process on all the websites, took pictures, and made a simple reel video that shows the schematics, cad, and pcb renders.
