@@ -59,6 +59,43 @@ The [full BOM](BOM.csv) covers one remote and one receiver, including the batter
 
 The submitted parts estimate is **$40.78**, plus a **$23.54 provisional shipping and tax allowance**, for **$64.32**. These are the submission quotes, not current checkout prices. Final shipping, taxes, and PCB discounts still need checking before ordering.
 
+### Bill of materials
+
+Quantities used are for one working pair. Order quantities include the supplier packs and spare boards. Prices are in USD.
+
+| Part | Used | Order | Unit price | Total | Supplier |
+| --- | ---: | --- | ---: | ---: | --- |
+| ESP32-S3-WROOM-1-N4 | 1 | 1 each | $4.15 | $4.15 | [LCSC](https://www.lcsc.com/product-detail/C2913197.html) |
+| ESP32-C3-WROOM-02-N4 | 1 | 1 each | $3.32 | $3.32 | [LCSC](https://www.lcsc.com/product-detail/C2934560.html) |
+| AP2112K-3.3TRG1 (5 pack) | 2 | 1 pack of 5 | $0.86 | $0.86 | [LCSC](https://www.lcsc.com/product-detail/C51118.html) |
+| TYPE-C-31-M-12 (5 pack) | 2 | 1 pack of 5 | $0.86 | $0.86 | [LCSC](https://www.lcsc.com/product-detail/C165948.html) |
+| Microchip MCP73831T-2ATI/OT | 1 | 2 each | $1.40 | $2.80 | [LCSC](https://www.lcsc.com/product-detail/C14879.html) |
+| Omron B3U-1000P (5 pack) | 4 | 2 pack of 5 | $0.94 | $1.88 | [LCSC](https://www.lcsc.com/product-detail/C231329.html) |
+| JST B2B-PH-K-S(LF)(SN) (20 pack) | 1 | 1 pack of 20 | $0.71 | $0.71 | [LCSC](https://www.lcsc.com/product-detail/C131337.html) |
+| Kailh Choc V1 red switches | 2 | 2 each | $0.60 | $1.20 | [Keebio](https://keeb.io/products/kailh-choc-low-profile-switches-v1?variant=40343498227806) |
+| 0603WAF1001T5E (100 pack) | 3 | 1 pack of 100 | $0.26 | $0.26 | [LCSC](https://www.lcsc.com/product-detail/C21190.html) |
+| Yageo RC0603FR-0710KL (100 pack) | 2 | 1 pack of 100 | $0.34 | $0.34 | [LCSC](https://www.lcsc.com/product-detail/C98220.html) |
+| 0603WAF1003T5E (100 pack) | 2 | 1 pack of 100 | $0.31 | $0.31 | [LCSC](https://www.lcsc.com/product-detail/C25803.html) |
+| 0603WAF2001T5E (100 pack) | 1 | 1 pack of 100 | $0.24 | $0.24 | [LCSC](https://www.lcsc.com/product-detail/C22975.html) |
+| Yageo CC0603KRX7R9BB104 (50 pack) | 2 | 1 pack of 50 | $0.62 | $0.62 | [LCSC](https://www.lcsc.com/product-detail/C14663.html) |
+| CL10A106MQ8NNNC (10 pack) | 2 | 1 pack of 10 | $0.23 | $0.23 | [LCSC](https://www.lcsc.com/product-detail/C1691.html) |
+| CL10B105KO8NNNC (50 pack) | 2 | 1 pack of 50 | $1.06 | $1.06 | [LCSC](https://www.lcsc.com/product-detail/C59782.html) |
+| M2 x 6 mm stainless steel screws (25 pack) | 8 | 1 pack of 25 | $3.49 | $3.49 | [Keebio](https://keeb.io/products/m2-screws-and-standoffs?variant=47874887558) |
+| SS14 Schottky diodes (50 pack) | 2 | 1 pack of 50 | $0.94 | $0.94 | [LCSC](https://www.lcsc.com/product-detail/C2480.html) |
+| Kingbright APT1608SURCK red LEDs (5 pack) | 3 | 1 pack of 5 | $0.63 | $0.63 | [LCSC](https://www.lcsc.com/product-detail/C5875723.html) |
+| C&K OS102011MS2QN1 power switch | 1 | 1 each | $0.66 | $0.66 | [LCSC](https://www.lcsc.com/product-detail/C221829.html) |
+| 1x3 2.54 mm pin headers (5 pack) | 2 | 1 pack of 5 | $0.12 | $0.12 | [LCSC](https://www.lcsc.com/product-detail/C32713269.html) |
+| Adafruit 1578 protected 3.7 V 500 mAh battery | 1 | 1 each | $7.95 | $7.95 | [Mouser](https://www.mouser.com/en/ProductDetail/Adafruit/1578?qs=GURawfaeGuBBv%2Fo5AsyERQ%3D%3D) |
+| Receiver PCB (5 board batch) | 1 | 1 batch of 5 boards | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote) |
+| Remote PCB (5 board batch) | 1 | 1 batch of 5 boards | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote) |
+| 0603WAF5101T5E (100 pack) | 4 | 1 pack of 100 | $0.15 | $0.15 | [LCSC](https://www.lcsc.com/product-detail/C23186.html) |
+| Printed case parts | 4 | 4 printed part | $0.00 | $0.00 | [Already owned filament](enclosures/stl) |
+| Printed keycaps | 2 | 2 printed part | $0.00 | $0.00 | [Already owned filament](enclosures/stl) |
+| Tax and shipping allowance |  | 1 allowance | $23.54 | $23.54 | [Multiple suppliers](https://halflife.hackclub.com/projects/cmuo5o3bs001h01q34f93breu) |
+| **Total estimate** | | | | **$64.32** | |
+
+### Assembly
+
 The board-level component lists are [remote BOM](remote/production/bom.csv) and [receiver BOM](receiver/production/bom.csv). The full BOM records the supplier substitutions selected during sourcing, including the LEDs and power switch that still need checking before purchase.
 
 Solder the small surface-mount parts first, then the modules and connectors. Check orientation and inspect for bridges before powering either board. Bring up the boards on current-limited USB power and check the 3.3 V rails before flashing them.
