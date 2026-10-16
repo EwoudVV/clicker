@@ -10,5 +10,12 @@ fp-info-cache
 # OS
 .DS_Store
 receiver/.history/
-remote/.history/\
 remote/.history/
+
+# Local work
+work/
+engineering/
+media/
+submission/
+verification/
+__pycache__/

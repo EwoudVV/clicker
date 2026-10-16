@@ -111,7 +111,7 @@ This version keeps the remote's radio awake. Battery runtime and low-power sleep
 ## when the boards arrive
 
 - Check assembly, connector polarity, and resistance between power and ground before powering.
-- Start with current-limited USB power and measure both 3.3 V rails. Address the open power issues in `docs/hardware-review-2026-10-03.md` before connecting a battery.
+- Start with current-limited USB power and measure both 3.3 V rails. Before connecting a battery, check its charge-current limit against the remote's 2k charge-program resistor (roughly 500 mA), change the resistor if needed, and check the battery lead polarity. Test the regulator supply as the battery discharges too.
 - Flash each board, open its console, and check `status`.
 - Pair the devices. Verify the receiver appears as a keyboard and serial device.
 - Test short presses, holds, and both buttons in a text editor, then in slides.
